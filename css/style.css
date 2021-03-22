@@ -1,0 +1,74 @@
+/* body image */
+body
+{
+    background-image: url(../img/Monitor-pana.png);
+    background-size: cover;
+}
+/* body image */
+
+/* body-container row1*/
+#row1
+{
+    margin-top: 30px;
+}
+/* body-container row1*/
+
+/* navbar brand */
+.navbar-brand
+{
+    color: #000;
+    font-family: 'Chango', cursive;
+}
+
+/* navbar icon1 */
+#ic1
+{
+    font-size: 25px;
+    color: #EA2027;
+}
+/* navbar icon1 */
+
+#nv-ic
+{
+    margin-left: 20px;
+    color: #EA2027;
+}
+
+/* content1 navbar sub content1*/
+ #navbar
+{  
+   border-style:solid ;
+   border-width: 1px;
+   border-color: #EA2027;
+    
+}
+
+.nav-link , h5
+{
+    color: #000;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+   
+}
+/* content1 carousel sub content1*/
+#carouselExampleSlidesOnly
+{
+    margin-top: 10px;
+}
+
+#a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.card-link
+{
+    color: #EA2027;
+    text-decoration: none;
+}
+
+#title
+{
+    margin-top: 15px;
+}
